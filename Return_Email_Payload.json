@@ -1,0 +1,57 @@
+{
+   "emailAddress":"amber.sand.contractor@alsac.stjude.org",
+   "externalKey":"259131",
+   "clientID":"10835431",
+   "personalAttributes":[
+		 
+		 {
+			 "attributeKey":"CustomerName",
+         "attributeValue":"Amber Sand"
+		 },
+		{
+			 "attributeKey":"OrderNumber",
+         "attributeValue":"6192230121"
+		 },
+		 {
+			 "attributeKey":"ReturnOrderNumber",
+         "attributeValue":"05/10/2022"
+		 },
+		 {
+			 "attributeKey":"ReturnOrderSubtotal",
+         "attributeValue": 152.29
+		 },
+		 {
+			 "attributeKey":"ReturnOrderPriceAdjustment",
+         "attributeValue": 110.23
+		 },
+		 {
+			 "attributeKey":"ReturnOrderShipping",
+         "attributeValue": 123.14
+		 },
+		 {
+			 "attributeKey":"ReturnOrderTax",
+         "attributeValue": 12.10
+		 },
+		 {
+			 "attributeKey":"ReturnOrderTotal",
+         "attributeValue": 169.10
+		 },
+		 {
+			 "attributeKey":"PaymentMethod",
+         "attributeValue":"Credit"
+		 },
+		 {
+			 "attributeKey":"PaymentCardNumber",
+         "attributeValue":"XXXX-XXXX-XXXX-1221"
+		 },
+		 {
+			 "attributeKey":"PaymentAmount",
+         "attributeValue": 243.85
+		 },
+		  {
+         "attributeKey":"Item_List",
+         "attributeValue":
+					 "[{\"Description\":\"WaterBottles\",\"ItemPrice\":\"$3\",\"QuantityReturned\":\"2\",\"ItemTax\":\"1\",\"ItemCode\":\"91810\"},{\"Description\":\"MuscleMilk\",\"ItemPrice\":\"$2.39\",\"QuantityReturned\":\"20\",\"ItemTax\":\"10\",\"ItemCode\":\"214110\"},{\"Description\":\"Nike Sleeve\",\"ItemPrice\":\"$13\",\"QuantityReturned\":\"5\",\"ItemTax\":\"5\",\"ItemCode\":\"812410\"}]"
+      }
+   ]
+}
